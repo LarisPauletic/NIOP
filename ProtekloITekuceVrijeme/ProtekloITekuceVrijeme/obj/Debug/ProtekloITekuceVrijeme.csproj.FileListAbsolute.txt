@@ -1,0 +1,11 @@
+C:\Users\Učenik6\source\repos\ProtekloITekuceVrijeme\ProtekloITekuceVrijeme\bin\Debug\ProtekloITekuceVrijeme.exe.config
+C:\Users\Učenik6\source\repos\ProtekloITekuceVrijeme\ProtekloITekuceVrijeme\bin\Debug\ProtekloITekuceVrijeme.exe
+C:\Users\Učenik6\source\repos\ProtekloITekuceVrijeme\ProtekloITekuceVrijeme\bin\Debug\ProtekloITekuceVrijeme.pdb
+C:\Users\Učenik6\source\repos\ProtekloITekuceVrijeme\ProtekloITekuceVrijeme\obj\Debug\ProtekloITekuceVrijeme.csprojAssemblyReference.cache
+C:\Users\Učenik6\source\repos\ProtekloITekuceVrijeme\ProtekloITekuceVrijeme\obj\Debug\ProtekloITekuceVrijeme.Form1.resources
+C:\Users\Učenik6\source\repos\ProtekloITekuceVrijeme\ProtekloITekuceVrijeme\obj\Debug\ProtekloITekuceVrijeme.Form2.resources
+C:\Users\Učenik6\source\repos\ProtekloITekuceVrijeme\ProtekloITekuceVrijeme\obj\Debug\ProtekloITekuceVrijeme.Properties.Resources.resources
+C:\Users\Učenik6\source\repos\ProtekloITekuceVrijeme\ProtekloITekuceVrijeme\obj\Debug\ProtekloITekuceVrijeme.csproj.GenerateResource.cache
+C:\Users\Učenik6\source\repos\ProtekloITekuceVrijeme\ProtekloITekuceVrijeme\obj\Debug\ProtekloITekuceVrijeme.csproj.CoreCompileInputs.cache
+C:\Users\Učenik6\source\repos\ProtekloITekuceVrijeme\ProtekloITekuceVrijeme\obj\Debug\ProtekloITekuceVrijeme.exe
+C:\Users\Učenik6\source\repos\ProtekloITekuceVrijeme\ProtekloITekuceVrijeme\obj\Debug\ProtekloITekuceVrijeme.pdb
